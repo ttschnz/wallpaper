@@ -1,0 +1,27 @@
+{
+  "name": "wallpaper_live",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "Base64": "^1.1.0",
+    "convert-svg-to-png": "^0.5.0",
+    "dayjs": "^1.10.4",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "node-html-to-image": "^3.1.0",
+    "node-windows": "^1.0.0-beta.5",
+    "opn": "^6.0.0",
+    "os-service": "^2.2.0",
+    "spotify-web-api-node": "^5.0.2",
+    "wallpaper": "^4.4.2",
+    "webuntis": "^1.15.0"
+  }
+}
